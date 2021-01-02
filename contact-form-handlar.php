@@ -6,7 +6,7 @@ $message = $_POST['message'];
 
 
 
-$email_from = 'jabbersardar111@gmail.com';
+$email_from = 'https://munnytv.github.io/munny24/';
 
 
 $email_subject = "New Form Submission";
